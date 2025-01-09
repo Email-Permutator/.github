@@ -1,4 +1,4 @@
-# Email Permutator: A Comprehensive Guide to Generate Email Combinations  
+# Email Permutator - Free Email Permutator Tool  
 
 In today’s digital world, email communication plays a crucial role in networking, business outreach, and professional engagements. However, finding the correct email address for a contact can sometimes be a challenge. This is where an **Email Permutator** becomes a handy tool. It allows users to generate potential email address combinations based on a contact’s name and domain, increasing the chances of hitting the right email address.  
 
